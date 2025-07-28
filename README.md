@@ -14,9 +14,6 @@ This is a simple console-based Quiz Application built in Java.
 1. Open in any Java IDE or editor
 2. Run `QuizApp.java`
 
-## Screenshot
-(Add a screenshot if you like)
 
----
 
 Made with ❤️ using Java
